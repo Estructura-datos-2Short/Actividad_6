@@ -1,5 +1,11 @@
 # Simulador de Ronda - Actividad 6
 
+
+## Información del estudiante
+Nombre: Larry David Botia C.  
+Asignatura: Estructura de Datos  
+Profesor: Endi Jainner Romero  
+
 ## Descripción
 
 Este proyecto implementa un simulador del juego de cartas "La Ronda" utilizando estructuras de datos en Java. El programa utiliza una **lista circular enlazada** para gestionar los turnos de los jugadores de manera eficiente.
@@ -81,12 +87,4 @@ Ronda: [Andres: 0 pts]-> [Camila: 0 pts]-> [Felipe: 0 pts]-> [Laura: 0 pts]-> (v
 - **Lenguaje**: Java
 - **Paradigma**: Programación Orientada a Objetos
 - **Estructuras**: Lista circular, nodos enlazados
-- **Aleatoriedad**: Generación de puntos usando `Random`
-
-## Autor
-
-Desarrollado como parte del curso de Estructuras de Datos.
-
-## Licencia
-
-Este proyecto es para fines educativos.
+- **Aleatoriedad**: Generación de puntos usando `Random`.
